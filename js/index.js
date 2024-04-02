@@ -1,3 +1,3 @@
 
 
-console.log('Seja bem vindo ')
+Console.log('Seja bem vindo ')
